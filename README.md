@@ -18,6 +18,6 @@
    ```                  
  <br/>
   
-## Microservice endpoint
-   Available at https://example.com/country-capital/<query-params>
+## Additional information
+   Microservice endpoint available at `` https://example.com/country-capital/<query-params>`` that can be used by any project in the organization to consume this API.
   
